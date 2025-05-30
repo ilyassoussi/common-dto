@@ -21,7 +21,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub OWNER Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/ilyassoussi/moussada-project</url>
+			<url>https://maven.pkg.github.com/ilyassoussi/common-dto</url>
 		</repository>
 	</distributionManagement>
 
